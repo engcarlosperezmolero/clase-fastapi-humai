@@ -1,0 +1,4 @@
+venv-fastapi-humai/
+__pycache__/
+*.pyc
+.idea/
